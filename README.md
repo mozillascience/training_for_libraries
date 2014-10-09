@@ -10,9 +10,35 @@ At the same time, we've identified a need for community around curriculum, and m
 
 ###General Curriculum
 * [Library Data Science Curriculum](http://altbibl.io/dst4l/)
+* [Open Hatch: Guide to Git](https://openhatch.org/wiki/Open_Source_Comes_to_Campus/Curriculum)
+* [Open Hatch: CLI Exercises + Missions](http://openhatch.org/missions/)
 
 ###Proposed Topics
+The following represent some general topics for librarians in-the-know with code. We plan to test, weed, and add to these topics at MozFest.
 
+####I. Web Dev
+* HTML/CSS
+* Javascript/Web applications
+* JQuery/ AJAX
+* Wordpress
+
+####II. Database Management + Search
+* PHP/MAMP
+* Wordpress
+* SQL
+* System administration
+* Elastic search/ search optimization
+
+####III. CLI Foo
+* Writing on the command line
+* Version Control / Git
+
+####IV. Data Wrangling
+* XML/XSLT/XQuery
+* Regular expressions
+* Sandbox
+* File migration
+* Improving documentation
 
 
 ###Planning Docs
