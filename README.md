@@ -41,5 +41,6 @@ The following represent some general topics for librarians in-the-know with code
 
 
 ###Planning Docs
-* [Etherpad/MozPlanning for Open Science](https://etherpad.mozilla.org/sciencelab-mozfest2014-wranglers)
+* [Etherpad for the session](https://etherpad.mozilla.org/mozscience-hackinglibraries)
+* [Etherpad for pre-planning for Open Science](https://etherpad.mozilla.org/sciencelab-mozfest2014-wranglers)
 * [MozFest Proposal](https://github.com/riordan/mozfest-14-proposals/blob/master/hacking-hacking-the-library.md)
