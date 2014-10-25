@@ -20,7 +20,6 @@ The following represent some general topics for librarians in-the-know with code
 * HTML/CSS
 * Javascript/Web applications
 * JQuery/ AJAX
-* Wordpress
 
 ####II. Database Management + Search
 * PHP/MAMP
